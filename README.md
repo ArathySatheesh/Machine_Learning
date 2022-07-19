@@ -1,2 +1,2 @@
 # Machine_Learning
-Machine Learning projects
+This repository contains various projects on machine learning projects for solving linear and non-linear problems.
